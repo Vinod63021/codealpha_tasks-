@@ -14,6 +14,7 @@ public class SimpleChatBot {
         responses.put("bye", "Goodbye! Have a nice day.");
         responses.put("what is your name", "I'm ChatBot, your virtual assistant.");
         responses.put("who created you", "I was created by a Java programmer!");
+        responses.put("who is java programmer", "Vinod");
         responses.put("default", "I'm not sure how to respond to that.");
 
         System.out.println("ChatBot: Hello! Type 'bye' to exit.");
